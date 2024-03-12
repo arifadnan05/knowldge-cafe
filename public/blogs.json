@@ -1,0 +1,48 @@
+[
+    {
+      "id": "001",
+      "cover": "https://i.postimg.cc/dVR50wmk/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "title": "The Mystery of Crimson Manor",
+      "author": "Victoria Black",
+      "author_img": "https://i.postimg.cc/76gHsKFT/irene-strong-v2a-Knj-Mb-P-k-unsplash.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": "45 minutes"
+    },
+    {
+      "id": "002",
+      "cover": "https://i.postimg.cc/0j2z7GL1/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+      "title": "Beyond the Stars",
+      "author": "Alexander Smith",
+      "author_img": "https://i.postimg.cc/K8kyp9Lv/logan-weaver-lgnwvr-p0-B7ueo-Zz8-E-unsplash.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": "30 minutes"
+    },
+    {
+      "id": "003",
+      "cover": "https://i.postimg.cc/hj7B6XTQ/thought-catalog-505eect-W54k-unsplash.jpg",
+      "title": "Echoes of Eternity",
+      "author": "Emily White",
+      "author_img": "https://i.postimg.cc/BZVY7JCH/charlie-green-3-Jmf-ENc-L24-M-unsplash.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": "60 minutes"
+    },
+    {
+      "id": "004",
+      "cover": "https://i.postimg.cc/BZgYsqpj/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+      "title": "Whispers in the Dark",
+      "author": "James Johnson",
+      "author_img": "https://i.postimg.cc/Pq5VFJ0b/ayo-ogunseinde-6-W4-F62s-N-y-I-unsplash.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": "50 minutes"
+    },
+    {
+      "id": "005",
+      "cover": "https://i.postimg.cc/ZnBCfYKw/joanna-kosinska-1-CMo-Fs-Pfso-unsplash.jpg",
+      "title": "The Forgotten Chronicles",
+      "author": "Sophia Lee",
+      "author_img": "https://i.postimg.cc/SNm6G5BC/ayo-ogunseinde-HEv-Q8-P4eqlg-unsplash.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": "55 minutes"
+    }
+  ]
+  
